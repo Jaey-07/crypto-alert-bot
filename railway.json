@@ -1,0 +1,9 @@
+{
+  "name": "crypto-telegram-alert-bot",
+  "envs": {
+    "TELEGRAM_TOKEN": "7676064422:AAEto8upiM2vDX9Oh8jxn1WsZd0oEACSvII",
+    "CHAT_ID": "-1002754523541"
+  },
+  "start": "python3 main.py",
+  "install": "pip install requests"
+}
